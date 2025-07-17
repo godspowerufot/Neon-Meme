@@ -1,0 +1,28 @@
+{
+  "name": "meme-launchpad-bot",
+  "version": "1.0.0",
+  "description": "Bot for interacting with MemeLaunchpad smart contract on Neon EVM",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "interactive": "node interactive-bot.js",
+    "test": "node bot.js"
+  },
+  "keywords": [
+    "neon",
+    "solana",
+    "ethereum",
+    "defi",
+    "memecoin",
+    "launchpad",
+    "bot"
+  ],
+  "author": "Godspower",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^6.12.1",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
