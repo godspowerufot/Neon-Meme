@@ -10,6 +10,8 @@ _Experience seamless memecoin creation and trading directly through Telegram_
 
 **[Watch Bot Demo (60 seconds)](https://youtube.com/shorts/P0_qxLUgK1A?si=KLWuwGCVPtFG9lxZ)**
 
+**[BOT link](https://t.me/Xcryptosage_bot)**
+
 ## 🚀 What This Bot Does
 
 The MemeLaunchpad Telegram Bot provides an **accessible web3 interface** for:
@@ -302,13 +304,6 @@ Advanced troubleshooting:
 - **Environment Variables**: Secure key storage
 - **No Logging**: Keys never logged or exposed
 
-### **Transaction Safety**
-
-- **Gas Estimation**: Pre-transaction validation
-- **Amount Limits**: Reasonable transaction limits
-- **Confirmation Steps**: User confirmation for all transactions
-- **Explorer Links**: Full transaction transparency
-
 ## 🌐 Network Configuration
 
 ### **Neon EVM Devnet**
@@ -345,12 +340,6 @@ echo $TELEGRAM_BOT_TOKEN
 3. **Verify Token**: Use "🔍 Token Info"
 4. **Check Explorer**: Click transaction links
 
-#### **Network Issues**
-
-- Verify RPC endpoint connectivity
-- Check Neon network status
-- Ensure correct chain ID (245022926)
-
 #### **Permission Errors**
 
 - Confirm private key format (no 0x prefix)
@@ -370,27 +359,4 @@ echo $TELEGRAM_BOT_TOKEN
 - **Multi-Language Support**: Localization for global users
 - **Advanced Charts**: Price tracking and analytics
 - **Portfolio Management**: Token holdings overview
-- **Automated Trading**: Bot-based trading strategies
-  EON/issues
-- **Documentation**: Check the main README.md
-
-### **Community**
-
-- **Discord**: Join the Neon EVM community
-- **Twitter**: Follow updates and announcements
-- **Reddit**: Participate in discussions
-
-## 🏆 Hackathon Showcase
-
-This bot demonstrates:
-
-- ✅ **Neon Precompiles**: Direct Solana program integration
-- ✅ **Cross-Chain UX**: Seamless EVM-Solana interaction
-- ✅ **User Accessibility**: Web3 made simple through Telegram
-- ✅ **Production Quality**: Comprehensive error handling and testing
-
----
-
-**Built with ❤️ for the Neon EVM Hackathon**
-
-_Bringing cross-chain DeFi to mainstream users through intuitive interfaces_
+- **Automated Trading**: Bot-based trading
